@@ -9,6 +9,10 @@ using namespace std;
  // } Driver Code Ends
 //User function Template for C++
 
+/* //Your code here
+       if(n<10) return n;
+       return 1 + digitalRoot((n-1)%9);*/
+
 /*
 class Solution{
   public:
